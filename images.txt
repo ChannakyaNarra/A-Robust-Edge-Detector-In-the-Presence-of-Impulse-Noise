@@ -1,0 +1,70 @@
+1st image
+
+ psnr value of SAMFWM is -22.2171
+ psnr value of Median filter is -22.6093
+ ssim value of SAMFWM is 0.7803
+ ssim value of Median filter is 0.7742
+
+2nd image -camera man
+psnr value of SAMFWM is -18.9183
+ psnr value of Median filter is -19.3298
+ ssim value of SAMFWM is 0.7648
+ ssim value of Median filter is 0.7583
+ mse value of SAMFWM is 77.9519
+ mse value of Medium filter is 85.6996
+
+3rd image -coin
+psnr value of SAMFWM is -24.7506
+ psnr value of Median filter is -24.8395
+ ssim value of SAMFWM is 0.5749
+ ssim value of Median filter is 0.5930
+ mse value of SAMFWM is 298.5771
+ mse value of Medium filter is 304.7562
+
+4th image - flower
+psnr value of SAMFWM is -23.1065
+ psnr value of Median filter is -23.4927
+ ssim value of SAMFWM is 0.7930
+ ssim value of Median filter is 0.7820
+ mse value of SAMFWM is 204.4807
+ mse value of Medium filter is 223.4973
+
+5th image -apple
+ psnr value of SAMFWM is -27.9472
+ psnr value of Median filter is -28.0134
+ ssim value of SAMFWM is 0.6802
+ ssim value of Median filter is 0.6855
+ mse value of SAMFWM is 623.3279
+ mse value of Medium filter is 632.9079
+
+6th image -dog
+ psnr value of SAMFWM is -15.0384
+ psnr value of Median filter is -15.0488
+ ssim value of SAMFWM is 0.9475
+ ssim value of Median filter is 0.9526
+ mse value of SAMFWM is 31.9039
+ mse value of Medium filter is 31.9801
+
+7th image -rose
+ psnr value of SAMFWM is -15.0384
+ psnr value of Median filter is -15.0488
+ ssim value of SAMFWM is 0.9475
+ ssim value of Median filter is 0.9526
+ mse value of SAMFWM is 31.9039
+ mse value of Medium filter is 31.9801
+
+8th image -bird
+psnr value of SAMFWM is -13.2194
+ psnr value of Median filter is -13.3256
+ ssim value of SAMFWM is 0.8936
+ ssim value of Median filter is 0.8908
+ mse value of SAMFWM is 20.9865
+ mse value of Medium filter is 21.5062
+
+9th image -leaves
+psnr value of SAMFWM is -23.2984
+ psnr value of Median filter is -23.4514
+ ssim value of SAMFWM is 0.6955
+ ssim value of Median filter is 0.6940
+ mse value of SAMFWM is 213.7191
+ mse value of Medium filter is 221.3834
